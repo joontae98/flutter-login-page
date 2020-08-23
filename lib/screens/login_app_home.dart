@@ -11,7 +11,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       body: Stack(
         children: <Widget>[
-          Container(color: Color(0xff000031),),
+          Container(color: Color(0xff000031),),//color Hex ARGB
           Column(
             children: <Widget>[
               Container(width: 200,height: 200,color: Colors.deepPurpleAccent,),

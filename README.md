@@ -1,6 +1,6 @@
 # Flutter login page
 
-A new Flutter application
+flutter를 이용하여 로그인 페이지 구성
 
 ## Getting Started
 
